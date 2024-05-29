@@ -4,7 +4,7 @@ services:
   web_app: 
     build: .
     ports:
-      - 3000:8080
+      - 4000:8080
 
   db: 
     image: "mysql"
