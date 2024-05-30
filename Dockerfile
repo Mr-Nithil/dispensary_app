@@ -12,4 +12,5 @@ ENV PORT=8080
 
 EXPOSE 8080
 
+#command
 CMD ["npm", "start"]
